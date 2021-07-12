@@ -290,6 +290,19 @@
         <p>— For you as an <a href="/sponsors">advertiser or sponsor</a>, your ads will be integrated into both streams.</p>
         <p>There may be some changes in the above schema.</p>
 
+
+        <h3><br/>Gold Sponsor</h3>
+        <div class="sponsor">
+            <div>
+                <p>
+                    <a href="https://www.perl-services.de/">
+                        <img src="/i/edument.png" style="max-width: 300px"/>
+                    </a>
+                </p>
+                <p style="padding: 0 2em; text-align: left"><a href="https://www.edument.se/en">Edument</a> develops <a href="https://commaide.com/">Raku IDE Comma</a> and leads the development of <a href="https://cro.services/">Cro</a>, the most popular choice for building web services and applications in Raku. With Raku expertise extending all the way to the compiler and runtime, Edument delivers high-quality mentoring, consulting, and problem solving to clients using Raku in their development. Edument also has expertise in other areas beyond Raku, including <a href="https://www.edument.se/en/page/intellij-platform-development">developer tooling</a>, compiler and runtime development, C programming, and web development.</p>
+            </div>
+        </div>
+
         <h3><br/>Sponsor</h3>
 
         <div class="sponsors">

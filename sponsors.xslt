@@ -30,6 +30,19 @@
         }
     </style>
 
+    <h3>Gold Sponsor</h3>
+    <div class="sponsor" style="border-bottom: 5px solid #0e87b3; padding-bottom: 2em;">
+        <div>
+            <p>
+                <a href="https://www.perl-services.de/">
+                    <img src="/i/edument.png" style="max-width: 300px"/>
+                </a>
+            </p>
+            <p style="padding: 0 2em; text-align: left"><a href="https://www.edument.se/en">Edument</a> develops <a href="https://commaide.com/">Raku IDE Comma</a> and leads the development of <a href="https://cro.services/">Cro</a>, the most popular choice for building web services and applications in Raku. With Raku expertise extending all the way to the compiler and runtime, Edument delivers high-quality mentoring, consulting, and problem solving to clients using Raku in their development. Edument also has expertise in other areas beyond Raku, including <a href="https://www.edument.se/en/page/intellij-platform-development">developer tooling</a>, compiler and runtime development, C programming, and web development.</p>
+        </div>
+    </div>
+
+
     <h3>Why sponsoring?</h3>
     <p>The event is online, and it is free for the attendees. Nevertheless, there are lots of small and big expenses that we need to cover somehow. For example, a second internet connection to ensure it is stable on the day of the event, a lot of time invested in preparing and running the conference, costs for developing and hosting the site, costs for Zoom subscription, as well as investing in some new hardware. All that is a pleasure, but it will be even a stronger pleasure if the participants and the sponsors help to cover that.</p>
 
