@@ -34,7 +34,7 @@
     <div class="sponsor" style="border-bottom: 5px solid #0e87b3; padding-bottom: 2em;">
         <div>
             <p>
-                <a href="https://www.perl-services.de/">
+                <a href="https://www.edument.se/en">
                     <img src="/i/edument.png" style="max-width: 300px"/>
                 </a>
             </p>

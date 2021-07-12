@@ -295,7 +295,7 @@
         <div class="sponsor">
             <div>
                 <p>
-                    <a href="https://www.perl-services.de/">
+                    <a href="https://www.edument.se/en">
                         <img src="/i/edument.png" style="max-width: 300px"/>
                     </a>
                 </p>
