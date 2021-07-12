@@ -42,7 +42,7 @@
     <p>If anyone engages in unacceptable behavior, the conference organisers may take the actions they deem appropriate including expulsion from the conference without warning and/or refund.</p>
 
     <h3>6. Reporting Incidents</h3>
-    <p>If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify the organisers by any channel of communication as soon as possible. If you do not know who these members are, ask any event organiser or volunteer for help.</p>
+    <p>If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify the organisers by any channel of communication as soon as possible, or send a report to the Raku Community Affairs Team by email (CAT@raku.org). If you do not know who these members are, ask any event organiser or volunteer for help.</p>
 
     <h3>7. License and attribution</h3>
     <p>Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).</p>
