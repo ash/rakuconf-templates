@@ -235,7 +235,7 @@
 
         <div style="background: #f5f5ea; padding: 0 1em 0.5em 1em;">
             <h3>News</h3>
-            <p>We have more than 90 registered attendees so far!</p>
+            <p>We have more than 100 registered attendees so far!</p>
             <p>Please check the list of currently accepted <a href="/talks">talks</a>.</p>
             <p><a href="/t-shirt">T-shirt vector file</a> is ready for downloading and printing.</p>
         </div>
